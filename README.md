@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nexusx-mcp-x-v2-server-badge.png)](https://mseep.ai/app/nexusx-mcp-x-v2-server)
+
 # X(Twitter) V2 MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@NexusX-MCP/x-v2-server)](https://smithery.ai/server/@NexusX-MCP/x-v2-server)
